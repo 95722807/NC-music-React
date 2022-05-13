@@ -1,6 +1,6 @@
-import WJDiscover from "@/pages/discover"
-import WJMine from "@/pages/mine";
-import WJFriend from "@/pages/friend"
+import WJDiscover from "../pages/discover"
+import WJMine from "../pages/mine";
+import WJFriend from "../pages/friend"
 
 const routes = [
   {
